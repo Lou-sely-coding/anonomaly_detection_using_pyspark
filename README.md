@@ -1,5 +1,7 @@
 ## Anomaly detection using pyspark
 
+Data source: https://ieee-dataport.org/documents/toniot-datasets
+
 ### EDA
 After creating the spark session, the data is loaded and an analysis on the class imbalance is performed. 
 Additional visualizations are provided to have an idea of the relationship between some of the variables.
